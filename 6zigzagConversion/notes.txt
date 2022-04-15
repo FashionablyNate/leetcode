@@ -1,0 +1,32 @@
+P   A   H   N
+A P L S I I G
+Y   I   R
+
+PAYPALISHIRING numRows = 3
+00, 04, 08, 12,                 4
+01, 03, 05, 07, 09, 11, 13,     2
+02, 06, 10                      4
+
+P     I    N
+A   L S  I G
+Y A   H R
+P     I
+
+PAYPALISHIRING numRows = 4
+00, 06, 12,                     6
+01, 05, 07, 11, 13              4, 2
+02, 04, 08, 10,                 2, 4
+03, 09                          6
+
+P       H
+A     S I
+Y   I   R
+P L     I G
+A       N
+
+PAYPALISHIRING numRows = 5
+00, 08,         8
+01, 07, 09,     6, 2
+02, 06, 10,     4, 4
+03, 05, 11, 13  2, 6, 2
+04, 12          8
